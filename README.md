@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vik-vel" alt="vik-vel" /></a> </p>
 
-- 📄 Know about my experiences: I am a student at the Paisii Hilendarski University of Plovdiv. Over the past year I've gotten really into programming, focusing mainly on C# and .NET. At university I studied different programming languages, which gave me a wide range of knowledge. I have a desire to realize myself as a developer and I am particularly interested in the possibilities offered by .NET technology.
+- 📄 Ambitious software developer with a degree in Business Information Technologies from Paisii Hilendarski University of Plovdiv. My strong interest in programming has led me to focus on C# and .NET technologies, which I have further honed through both academic studies and professional experience. Currently working as a .NET Developer, where I apply my solid foundation in object-oriented programming to create clean, efficient, and scalable solutions. My previous experience in studying various programming languages has equipped me with a broad knowledge base and the ability to quickly adapt to new challenges. I am passionate about utilizing the capabilities of .NET technology to deliver impactful solutions and am eager to continue growing my expertise while contributing creativity and fresh perspectives to my team.
 
 - ⚡ Fun fact **Programming and creating software can be compared to the magic of the modern world. Programmers, like magicians, create magic using code and algorithms that lead to incredible technological achievements. So, every time you write code, you're like a modern-day wizard creating magic in the digital world!**
 
