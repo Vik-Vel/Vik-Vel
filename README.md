@@ -88,6 +88,8 @@
   </a>
 </p>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Vik-Vel&theme=dark&hide_border=true)<br/>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vik-Vel&theme=dark&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Vik-Vel&show_icons=true&locale=en&layout=compact" />
+</p>
 
-<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Vik-Vel&show_icons=true&locale=en&layout=compact" alt="Vik-Vel" /></p>
