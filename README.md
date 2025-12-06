@@ -23,7 +23,7 @@
 
 <h4 align="left">Frontend Development:</h4>
 <p align="left">
-  <a href="https://www.http://angular.dev/" target="_blank" rel="noreferrer">
+  <a href="https://angular.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg" alt="typescript" width="40" height="40"/>
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
